@@ -1,0 +1,30 @@
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.csproj.AssemblyReference.cache
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.AssemblyInfoInputs.cache
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.AssemblyInfo.cs
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.csproj.CoreCompileInputs.cache
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.exe
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.deps.json
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.runtimeconfig.json
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.dll
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.pdb
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.dll
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\refint\AlgorithmsCShp.dll
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.pdb
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.genruntimeconfig.cache
+F:\Developing Courses\CloudNativeBaseCamp\AlgorithmsCShp\obj\Debug\net6.0\ref\AlgorithmsCShp.dll
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.exe
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.deps.json
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.runtimeconfig.json
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.dll
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\bin\Debug\net6.0\AlgorithmsCShp.pdb
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.csproj.AssemblyReference.cache
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.AssemblyInfoInputs.cache
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.AssemblyInfo.cs
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.csproj.CoreCompileInputs.cache
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.dll
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\refint\AlgorithmsCShp.dll
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.pdb
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\AlgorithmsCShp.genruntimeconfig.cache
+F:\Developing Courses\Cloud Native Base Camp\AlgorithmsCShp\obj\Debug\net6.0\ref\AlgorithmsCShp.dll
